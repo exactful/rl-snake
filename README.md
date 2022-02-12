@@ -4,8 +4,6 @@ This code demonstrates Q learning using a reinforcement learning snake.
 
 ![Reinforcement Learning Snake](rl-snake-image.png)
 
-![Reinforcement Learning Snake](rl-snake-video.webm)
-
 Our objective is for the snake to eat the fruit although it is completely unaware of this aim.
 
 The snake has access to the following state information:
